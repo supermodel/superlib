@@ -1,5 +1,5 @@
 const camelize = require('./camelize');
-const convertToAvro = require('./convert/Avro');
+const convertToAvro = require('./convert/avro');
 const convertToGraphQL = require('./convert/GraphQL');
 const convertToOAS2 = require('./convertToOAS2');
 const createModelSchema = require('./createModelSchema');
